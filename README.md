@@ -19,6 +19,6 @@ Feel free to ask questions to creators.
 ##Completed Projects:
 ****************    
 cyber-dojo.org:  
-ISBN - PHP   
-ISBN - Java
+ISBN - PHP/Java
+
 ****************   
