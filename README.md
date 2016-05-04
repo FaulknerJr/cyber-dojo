@@ -2,7 +2,7 @@
 Using:    
 www.cyber-dojo.org   
 www.exercism.io  
-www.codekata.com
+www.codekata.com    
 ...
 
 Contributors to this repository:   
