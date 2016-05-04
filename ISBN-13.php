@@ -30,8 +30,8 @@
 		 + $arr4 + $arr5 + $arr6 + $arr7 + 
 		$arr8 + $arr9 + $arr10 + $arr11; // + $arr9;
 	
-	$iMod = $arrSum % 11;
-	$chkDigit = 11 - $iMod;
+	$iMod = $arrSum % 10;
+	$chkDigit = 10- $iMod;
 
 	if($strArr[12] == $chkDigit){
 		echo "CONFIRMED: <br>" . $dgts. 
