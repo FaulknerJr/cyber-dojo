@@ -15,7 +15,7 @@ public class ISBNProject {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void run() {
         String isbn = JOptionPane.showInputDialog("Enter ISBN number");
         checkISBN(isbn);
     }
