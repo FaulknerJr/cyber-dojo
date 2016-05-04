@@ -1,7 +1,8 @@
 #Git Repository for Collaboration on Test Driven Development   
 Using:    
 www.cyber-dojo.org   
-www.exercism.io   
+www.exercism.io  
+www.codekata.com
 ...
 
 Contributors to this repository:   
