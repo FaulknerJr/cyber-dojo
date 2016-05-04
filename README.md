@@ -16,4 +16,8 @@ Open folders to view working code or to review.
 Feel free to ask questions to creators.
 
 Completed Projects:
-ISBN - PHP
+****************    
+cyber-dojo.org:  
+ISBN - PHP   
+ISBN - Java
+****************   
