@@ -14,8 +14,9 @@ Inside the specific folders you will find projects completed
 	
 Open folders to view working code or to review.
 Feel free to ask questions to creators.
-
-Completed Projects:
+     
+         
+##Completed Projects:
 ****************    
 cyber-dojo.org:  
 ISBN - PHP   
