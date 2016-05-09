@@ -23,11 +23,9 @@ cyber-dojo/cyber-dojo.org/conwaysgameoflife/java/my_files.java
      
          
 ##Completed Projects:
-****************    
 ###cyber-dojo.org:  
 FizzBuzz - JavaScript @wstueve    
 VerifyPhoneList - JavaScript @wstueve    
 HundredDoors - Java @FaulknerJr   
 ISBN - Java @FaulknerJr    
 ISBN - PHP @mikestratton  
-****************   
