@@ -6,9 +6,9 @@ www.codekata.com
 ...
 
 Contributors to this repository:   
-https://github.com/mikestratton  
-https://github.com/FaulknerJr    
-https://github.com/wstueve
+       PHP: https://github.com/mikestratton   
+      Java: https://github.com/FaulknerJr      
+JavaScript: https://github.com/wstueve       
 
 Inside the specific folders you will find projects completed
 	in a variety of programming languages.
